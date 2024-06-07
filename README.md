@@ -1,1 +1,3 @@
-# crie_variaveis_aleatorias
+# Manipulação interessante de variáveis 
+
+# Crie_variaveis_aleatorias
